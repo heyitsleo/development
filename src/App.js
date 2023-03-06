@@ -23,7 +23,7 @@ const App = () => {
                 element={
                   <Home
                     title="Let's do something fun with AI."
-                    description="OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity."
+                    description="AutoAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity."
                   />
                 }
               />
