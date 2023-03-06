@@ -8,7 +8,7 @@ const FAQ = () => {
       question: "What can this website do?",
       li: false,
       answer:
-        "This website allows us to communicate with AI created by the OpenAI organization",
+        "This website allows us to communicate with AI created by the AutoAI organization",
       color: "#D0E2DB",
     },
     {
@@ -26,13 +26,13 @@ const FAQ = () => {
     {
       question: "What technology is used on this website?",
       li: false,
-      answer: "This website is built using ReactJS, Tailwind CSS, OpenAI API",
+      answer: "This website is built using ReactJS, Tailwind CSS, Our own API",
       color: "#FAAE2B",
     },
     {
       question: "How to Get API Key?",
       answer:
-        "You must first register on the openai website, then click the profile menu and select View API keys",
+        "You must first register on our website, then click the profile menu and select View API keys",
       color: "#FE98A3",
     },
   ];
